@@ -24,4 +24,5 @@ Gem::Specification.new do |s|
   s.add_dependency "net-sftp", ["~> 2.0.5"]
   s.add_development_dependency "rspec", ["~> 2.6"]
   s.add_development_dependency "rake", ["~> 0.9"]
+  s.add_development_dependency "activesupport", ["~> 3.2.15"]
 end
